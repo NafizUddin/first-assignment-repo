@@ -286,3 +286,46 @@
     padding-right: 40px;
     padding-top: 5px;
 }
+
+/* foot section styles */
+
+.foot-container {
+    background-color: #111010;
+    height: 320px;
+}
+
+.foot-head {
+    color: white;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.foot-text {
+    margin-top: 125px;
+}
+
+#foot-red {
+    color: #E55473;
+}
+
+.foot-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+
+.credit {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
